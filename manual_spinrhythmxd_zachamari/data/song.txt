@@ -1,0 +1,109 @@
+#Any comment in these files must start with #.
+#Items here must be on a new line.
+#List Spin Rhythm XD Base Game - Created By Zachamari
+
+#$game=SpinRhythmXD
+#$creator=Zachamari
+#$filler_item_name=Torque
+#$musicSheet=Spin Record
+
+## Spin Rhythm XD
+2 Minutes
+Adventures
+Air On Line
+Arcana Engine
+Believe
+Beyond The Heart
+Body F10ating in the Zero Gravity Space
+BUBBLES
+Checkpoint
+cold rock it
+Colorblind
+Come to Me
+Coming Too
+Dance With Silence
+Daydream
+Dying Scarlet
+Engine Start
+Final Boss
+Flight
+FOREVER NOW
+Ghost Ship
+Ginger Lizard
+Go Outside
+Heading East
+Highscore
+Hot Pursuit
+Humanity
+Hypersphere
+I See Lite
+Inject
+Let Me Hear That
+Lights Camera Action
+Lovesick
+Matriarch
+Metropole
+Mimic
+My Museum
+Never Count On Me
+New Game
+New Year
+No Limits
+Octava
+One Esk Nineteen
+Pirate Afterparty
+Platform 9
+Prism Bucket
+PROPER RHYTHM
+Radio
+Raise The Black Flag
+Rattlesnake
+Razor Sharp
+Reach You
+Revenger
+Rhythmic Shield
+Robo Trio
+Second Wind
+Sector Five
+Show Me Love (nxwyxrk remix)
+Showdown
+Spin Cycle (NETCAVY Remix)
+Spin Cycle
+Superimposed_RGB
+tapestry
+The Kraken
+The Magician (Eraser Remix)
+The Magician
+This Is It
+Time
+Twist Sound
+Undo U
+valor/starcross
+Velours
+Voidwalkers
+VOLT
+Water Elemental
+Wayside
+Whirlpool
+Your Pain
+
+## Monstercat DLC
+Cheat Codes
+CRAZY
+Into the Light
+Shut My Mouth
+THE DROP
+Blue Shadows
+Overkill
+U Got Me
+How We Win
+It's All Over
+
+## Indie DLC
+Part-Time Gymnast
+Time Wasted Worrying
+Punch-Drunk Love
+Inaka
+Playing Dead
+One
+Sleeping In

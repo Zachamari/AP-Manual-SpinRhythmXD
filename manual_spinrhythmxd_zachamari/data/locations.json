@@ -1,0 +1,1528 @@
+[
+    {
+        "name": "Finished Goal Song",
+        "category": [],
+        "requires": "|Goal Amount Reached|",
+        "victory": true
+    },
+    {
+        "name": "2 Minutes - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|2 Minutes|"
+    },
+    {
+        "name": "2 Minutes - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|2 Minutes|"
+    },
+    {
+        "name": "Adventures - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Adventures|"
+    },
+    {
+        "name": "Adventures - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Adventures|"
+    },
+    {
+        "name": "Air On Line - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Air On Line|"
+    },
+    {
+        "name": "Air On Line - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Air On Line|"
+    },
+    {
+        "name": "Arcana Engine - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Arcana Engine|"
+    },
+    {
+        "name": "Arcana Engine - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Arcana Engine|"
+    },
+    {
+        "name": "Believe - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Believe|"
+    },
+    {
+        "name": "Believe - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Believe|"
+    },
+    {
+        "name": "Beyond The Heart - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Beyond The Heart|"
+    },
+    {
+        "name": "Beyond The Heart - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Beyond The Heart|"
+    },
+    {
+        "name": "Blue Shadows - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Blue Shadows|"
+    },
+    {
+        "name": "Blue Shadows - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Blue Shadows|"
+    },
+    {
+        "name": "Body F10ating in the Zero Gravity Space - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Body F10ating in the Zero Gravity Space|"
+    },
+    {
+        "name": "Body F10ating in the Zero Gravity Space - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Body F10ating in the Zero Gravity Space|"
+    },
+    {
+        "name": "BUBBLES - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|BUBBLES|"
+    },
+    {
+        "name": "BUBBLES - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|BUBBLES|"
+    },
+    {
+        "name": "Cheat Codes - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Cheat Codes|"
+    },
+    {
+        "name": "Cheat Codes - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Cheat Codes|"
+    },
+    {
+        "name": "Checkpoint - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Checkpoint|"
+    },
+    {
+        "name": "Checkpoint - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Checkpoint|"
+    },
+    {
+        "name": "cold rock it - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|cold rock it|"
+    },
+    {
+        "name": "cold rock it - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|cold rock it|"
+    },
+    {
+        "name": "Colorblind - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Colorblind|"
+    },
+    {
+        "name": "Colorblind - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Colorblind|"
+    },
+    {
+        "name": "Come to Me - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Come to Me|"
+    },
+    {
+        "name": "Come to Me - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Come to Me|"
+    },
+    {
+        "name": "Coming Too - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Coming Too|"
+    },
+    {
+        "name": "Coming Too - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Coming Too|"
+    },
+    {
+        "name": "CRAZY - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|CRAZY|"
+    },
+    {
+        "name": "CRAZY - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|CRAZY|"
+    },
+    {
+        "name": "Dance With Silence - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dance With Silence|"
+    },
+    {
+        "name": "Dance With Silence - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dance With Silence|"
+    },
+    {
+        "name": "Daydream - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Daydream|"
+    },
+    {
+        "name": "Daydream - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Daydream|"
+    },
+    {
+        "name": "Dying Scarlet - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dying Scarlet|"
+    },
+    {
+        "name": "Dying Scarlet - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dying Scarlet|"
+    },
+    {
+        "name": "Engine Start - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Engine Start|"
+    },
+    {
+        "name": "Engine Start - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Engine Start|"
+    },
+    {
+        "name": "Final Boss - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Final Boss|"
+    },
+    {
+        "name": "Final Boss - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Final Boss|"
+    },
+    {
+        "name": "Flight - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Flight|"
+    },
+    {
+        "name": "Flight - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Flight|"
+    },
+    {
+        "name": "FOREVER NOW - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|FOREVER NOW|"
+    },
+    {
+        "name": "FOREVER NOW - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|FOREVER NOW|"
+    },
+    {
+        "name": "Ghost Ship - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ghost Ship|"
+    },
+    {
+        "name": "Ghost Ship - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ghost Ship|"
+    },
+    {
+        "name": "Ginger Lizard - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ginger Lizard|"
+    },
+    {
+        "name": "Ginger Lizard - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ginger Lizard|"
+    },
+    {
+        "name": "Go Outside - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Go Outside|"
+    },
+    {
+        "name": "Go Outside - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Go Outside|"
+    },
+    {
+        "name": "Heading East - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Heading East|"
+    },
+    {
+        "name": "Heading East - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Heading East|"
+    },
+    {
+        "name": "Highscore - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Highscore|"
+    },
+    {
+        "name": "Highscore - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Highscore|"
+    },
+    {
+        "name": "Hot Pursuit - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hot Pursuit|"
+    },
+    {
+        "name": "Hot Pursuit - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hot Pursuit|"
+    },
+    {
+        "name": "How We Win - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|How We Win|"
+    },
+    {
+        "name": "How We Win - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|How We Win|"
+    },
+    {
+        "name": "Humanity - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Humanity|"
+    },
+    {
+        "name": "Humanity - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Humanity|"
+    },
+    {
+        "name": "Hypersphere - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hypersphere|"
+    },
+    {
+        "name": "Hypersphere - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hypersphere|"
+    },
+    {
+        "name": "I See Lite - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|I See Lite|"
+    },
+    {
+        "name": "I See Lite - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|I See Lite|"
+    },
+    {
+        "name": "Inaka - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Inaka|"
+    },
+    {
+        "name": "Inaka - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Inaka|"
+    },
+    {
+        "name": "Inject - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Inject|"
+    },
+    {
+        "name": "Inject - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Inject|"
+    },
+    {
+        "name": "Into the Light - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Into the Light|"
+    },
+    {
+        "name": "Into the Light - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Into the Light|"
+    },
+    {
+        "name": "It's All Over - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|It's All Over|"
+    },
+    {
+        "name": "It's All Over - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|It's All Over|"
+    },
+    {
+        "name": "Let Me Hear That - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Let Me Hear That|"
+    },
+    {
+        "name": "Let Me Hear That - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Let Me Hear That|"
+    },
+    {
+        "name": "Lights Camera Action - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lights Camera Action|"
+    },
+    {
+        "name": "Lights Camera Action - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lights Camera Action|"
+    },
+    {
+        "name": "Lovesick - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lovesick|"
+    },
+    {
+        "name": "Lovesick - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lovesick|"
+    },
+    {
+        "name": "Matriarch - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Matriarch|"
+    },
+    {
+        "name": "Matriarch - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Matriarch|"
+    },
+    {
+        "name": "Metropole - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Metropole|"
+    },
+    {
+        "name": "Metropole - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Metropole|"
+    },
+    {
+        "name": "Mimic - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Mimic|"
+    },
+    {
+        "name": "Mimic - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Mimic|"
+    },
+    {
+        "name": "My Museum - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|My Museum|"
+    },
+    {
+        "name": "My Museum - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|My Museum|"
+    },
+    {
+        "name": "Never Count On Me - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Never Count On Me|"
+    },
+    {
+        "name": "Never Count On Me - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Never Count On Me|"
+    },
+    {
+        "name": "New Game - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Game|"
+    },
+    {
+        "name": "New Game - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Game|"
+    },
+    {
+        "name": "New Year - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Year|"
+    },
+    {
+        "name": "New Year - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Year|"
+    },
+    {
+        "name": "No Limits - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|No Limits|"
+    },
+    {
+        "name": "No Limits - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|No Limits|"
+    },
+    {
+        "name": "Octava - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Octava|"
+    },
+    {
+        "name": "Octava - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Octava|"
+    },
+    {
+        "name": "One Esk Nineteen - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|One Esk Nineteen|"
+    },
+    {
+        "name": "One Esk Nineteen - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|One Esk Nineteen|"
+    },
+    {
+        "name": "One - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|One|"
+    },
+    {
+        "name": "One - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|One|"
+    },
+    {
+        "name": "Overkill - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Overkill|"
+    },
+    {
+        "name": "Overkill - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Overkill|"
+    },
+    {
+        "name": "Part-Time Gymnast - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Part-Time Gymnast|"
+    },
+    {
+        "name": "Part-Time Gymnast - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Part-Time Gymnast|"
+    },
+    {
+        "name": "Pirate Afterparty - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Pirate Afterparty|"
+    },
+    {
+        "name": "Pirate Afterparty - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Pirate Afterparty|"
+    },
+    {
+        "name": "Platform 9 - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Platform 9|"
+    },
+    {
+        "name": "Platform 9 - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Platform 9|"
+    },
+    {
+        "name": "Playing Dead - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Playing Dead|"
+    },
+    {
+        "name": "Playing Dead - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Playing Dead|"
+    },
+    {
+        "name": "Prism Bucket - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Prism Bucket|"
+    },
+    {
+        "name": "Prism Bucket - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Prism Bucket|"
+    },
+    {
+        "name": "PROPER RHYTHM - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|PROPER RHYTHM|"
+    },
+    {
+        "name": "PROPER RHYTHM - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|PROPER RHYTHM|"
+    },
+    {
+        "name": "Punch-Drunk Love - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Punch-Drunk Love|"
+    },
+    {
+        "name": "Punch-Drunk Love - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Punch-Drunk Love|"
+    },
+    {
+        "name": "Radio - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Radio|"
+    },
+    {
+        "name": "Radio - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Radio|"
+    },
+    {
+        "name": "Raise The Black Flag - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Raise The Black Flag|"
+    },
+    {
+        "name": "Raise The Black Flag - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Raise The Black Flag|"
+    },
+    {
+        "name": "Rattlesnake - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rattlesnake|"
+    },
+    {
+        "name": "Rattlesnake - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rattlesnake|"
+    },
+    {
+        "name": "Razor Sharp - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Razor Sharp|"
+    },
+    {
+        "name": "Razor Sharp - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Razor Sharp|"
+    },
+    {
+        "name": "Reach You - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Reach You|"
+    },
+    {
+        "name": "Reach You - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Reach You|"
+    },
+    {
+        "name": "Revenger - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Revenger|"
+    },
+    {
+        "name": "Revenger - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Revenger|"
+    },
+    {
+        "name": "Rhythmic Shield - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rhythmic Shield|"
+    },
+    {
+        "name": "Rhythmic Shield - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rhythmic Shield|"
+    },
+    {
+        "name": "Robo Trio - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Robo Trio|"
+    },
+    {
+        "name": "Robo Trio - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Robo Trio|"
+    },
+    {
+        "name": "Second Wind - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Second Wind|"
+    },
+    {
+        "name": "Second Wind - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Second Wind|"
+    },
+    {
+        "name": "Sector Five - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Sector Five|"
+    },
+    {
+        "name": "Sector Five - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Sector Five|"
+    },
+    {
+        "name": "Show Me Love (nxwyxrk remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Show Me Love (nxwyxrk remix)|"
+    },
+    {
+        "name": "Show Me Love (nxwyxrk remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Show Me Love (nxwyxrk remix)|"
+    },
+    {
+        "name": "Showdown - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Showdown|"
+    },
+    {
+        "name": "Showdown - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Showdown|"
+    },
+    {
+        "name": "Shut My Mouth - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Shut My Mouth|"
+    },
+    {
+        "name": "Shut My Mouth - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Shut My Mouth|"
+    },
+    {
+        "name": "Sleeping In - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Sleeping In|"
+    },
+    {
+        "name": "Sleeping In - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Sleeping In|"
+    },
+    {
+        "name": "Spin Cycle (NETCAVY Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle (NETCAVY Remix)|"
+    },
+    {
+        "name": "Spin Cycle (NETCAVY Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle (NETCAVY Remix)|"
+    },
+    {
+        "name": "Spin Cycle - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle|"
+    },
+    {
+        "name": "Spin Cycle - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle|"
+    },
+    {
+        "name": "Superimposed_RGB - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Superimposed_RGB|"
+    },
+    {
+        "name": "Superimposed_RGB - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Superimposed_RGB|"
+    },
+    {
+        "name": "tapestry - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|tapestry|"
+    },
+    {
+        "name": "tapestry - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|tapestry|"
+    },
+    {
+        "name": "THE DROP - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|THE DROP|"
+    },
+    {
+        "name": "THE DROP - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|THE DROP|"
+    },
+    {
+        "name": "The Kraken - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Kraken|"
+    },
+    {
+        "name": "The Kraken - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Kraken|"
+    },
+    {
+        "name": "The Magician (Eraser Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician (Eraser Remix)|"
+    },
+    {
+        "name": "The Magician (Eraser Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician (Eraser Remix)|"
+    },
+    {
+        "name": "The Magician - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician|"
+    },
+    {
+        "name": "The Magician - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician|"
+    },
+    {
+        "name": "This Is It - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|This Is It|"
+    },
+    {
+        "name": "This Is It - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|This Is It|"
+    },
+    {
+        "name": "Time Wasted Worrying - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Time Wasted Worrying|"
+    },
+    {
+        "name": "Time Wasted Worrying - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Time Wasted Worrying|"
+    },
+    {
+        "name": "Time - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Time|"
+    },
+    {
+        "name": "Time - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Time|"
+    },
+    {
+        "name": "Twist Sound - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Twist Sound|"
+    },
+    {
+        "name": "Twist Sound - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Twist Sound|"
+    },
+    {
+        "name": "U Got Me - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|U Got Me|"
+    },
+    {
+        "name": "U Got Me - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|U Got Me|"
+    },
+    {
+        "name": "Undo U - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Undo U|"
+    },
+    {
+        "name": "Undo U - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Undo U|"
+    },
+    {
+        "name": "valor/starcross - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|valor/starcross|"
+    },
+    {
+        "name": "valor/starcross - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|valor/starcross|"
+    },
+    {
+        "name": "Velours - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Velours|"
+    },
+    {
+        "name": "Velours - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Velours|"
+    },
+    {
+        "name": "Voidwalkers - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Voidwalkers|"
+    },
+    {
+        "name": "Voidwalkers - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Voidwalkers|"
+    },
+    {
+        "name": "VOLT - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|VOLT|"
+    },
+    {
+        "name": "VOLT - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|VOLT|"
+    },
+    {
+        "name": "Water Elemental - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Water Elemental|"
+    },
+    {
+        "name": "Water Elemental - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Water Elemental|"
+    },
+    {
+        "name": "Wayside - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Wayside|"
+    },
+    {
+        "name": "Wayside - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Wayside|"
+    },
+    {
+        "name": "Whirlpool - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Whirlpool|"
+    },
+    {
+        "name": "Whirlpool - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Whirlpool|"
+    },
+    {
+        "name": "Your Pain - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Your Pain|"
+    },
+    {
+        "name": "Your Pain - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Your Pain|"
+    }
+]
