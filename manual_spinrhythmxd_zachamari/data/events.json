@@ -1,9 +1,0 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
-    "data": [
-        {
-            "name": "Goal Amount Reached",
-            "requires": "|Spin Record|"
-        }
-    ]
-}
