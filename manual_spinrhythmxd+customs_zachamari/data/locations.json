@@ -1,0 +1,3912 @@
+[
+    {
+        "name": "Finished Goal Song",
+        "category": [],
+        "requires": "|Goal Amount Reached|",
+        "victory": true
+    },
+    {
+        "name": "140 - Pt. 3B - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|140 - Pt. 3B|"
+    },
+    {
+        "name": "140 - Pt. 3B - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|140 - Pt. 3B|"
+    },
+    {
+        "name": "2 Minutes - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|2 Minutes|"
+    },
+    {
+        "name": "2 Minutes - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|2 Minutes|"
+    },
+    {
+        "name": "24-Hour Cinderella - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|24-Hour Cinderella|"
+    },
+    {
+        "name": "24-Hour Cinderella - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|24-Hour Cinderella|"
+    },
+    {
+        "name": "4'33 - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|4'33|"
+    },
+    {
+        "name": "4'33 - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|4'33|"
+    },
+    {
+        "name": ";3 - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|;3|"
+    },
+    {
+        "name": ";3 - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|;3|"
+    },
+    {
+        "name": "A CYBER'S WORLD? - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|A CYBER'S WORLD?|"
+    },
+    {
+        "name": "A CYBER'S WORLD? - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|A CYBER'S WORLD?|"
+    },
+    {
+        "name": "Adventures - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Adventures|"
+    },
+    {
+        "name": "Adventures - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Adventures|"
+    },
+    {
+        "name": "Air On Line - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Air On Line|"
+    },
+    {
+        "name": "Air On Line - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Air On Line|"
+    },
+    {
+        "name": "Although the Sky - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Although the Sky|"
+    },
+    {
+        "name": "Although the Sky - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Although the Sky|"
+    },
+    {
+        "name": "amongus emotional piano fl studio no clickbait - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|amongus emotional piano fl studio no clickbait|"
+    },
+    {
+        "name": "amongus emotional piano fl studio no clickbait - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|amongus emotional piano fl studio no clickbait|"
+    },
+    {
+        "name": "aNYway - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|aNYway|"
+    },
+    {
+        "name": "aNYway - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|aNYway|"
+    },
+    {
+        "name": "Arcana Engine - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Arcana Engine|"
+    },
+    {
+        "name": "Arcana Engine - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Arcana Engine|"
+    },
+    {
+        "name": "Axel F - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Axel F|"
+    },
+    {
+        "name": "Axel F - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Axel F|"
+    },
+    {
+        "name": "Axolotl Throttle - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Axolotl Throttle|"
+    },
+    {
+        "name": "Axolotl Throttle - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Axolotl Throttle|"
+    },
+    {
+        "name": "baby crying autotune - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|baby crying autotune|"
+    },
+    {
+        "name": "baby crying autotune - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|baby crying autotune|"
+    },
+    {
+        "name": "Baka Mitai - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Baka Mitai|"
+    },
+    {
+        "name": "Baka Mitai - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Baka Mitai|"
+    },
+    {
+        "name": "Beautiful Mind - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Beautiful Mind|"
+    },
+    {
+        "name": "Beautiful Mind - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Beautiful Mind|"
+    },
+    {
+        "name": "Believe - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Believe|"
+    },
+    {
+        "name": "Believe - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Believe|"
+    },
+    {
+        "name": "Better Call Saul - Opening - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Better Call Saul - Opening|"
+    },
+    {
+        "name": "Better Call Saul - Opening - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Better Call Saul - Opening|"
+    },
+    {
+        "name": "Beyond The Heart - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Beyond The Heart|"
+    },
+    {
+        "name": "Beyond The Heart - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Beyond The Heart|"
+    },
+    {
+        "name": "Blue Shadows - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Blue Shadows|"
+    },
+    {
+        "name": "Blue Shadows - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Blue Shadows|"
+    },
+    {
+        "name": "Body F10ating in the Zero Gravity Space - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Body F10ating in the Zero Gravity Space|"
+    },
+    {
+        "name": "Body F10ating in the Zero Gravity Space - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Body F10ating in the Zero Gravity Space|"
+    },
+    {
+        "name": "Brand New - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Brand New|"
+    },
+    {
+        "name": "Brand New - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Brand New|"
+    },
+    {
+        "name": "BUBBLES - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|BUBBLES|"
+    },
+    {
+        "name": "BUBBLES - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|BUBBLES|"
+    },
+    {
+        "name": "Buff Marvin - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Buff Marvin|"
+    },
+    {
+        "name": "Buff Marvin - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Buff Marvin|"
+    },
+    {
+        "name": "Cheat Codes VIP - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Cheat Codes VIP|"
+    },
+    {
+        "name": "Cheat Codes VIP - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Cheat Codes VIP|"
+    },
+    {
+        "name": "Cheat Codes - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Cheat Codes|"
+    },
+    {
+        "name": "Cheat Codes - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Cheat Codes|"
+    },
+    {
+        "name": "Checkpoint - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Checkpoint|"
+    },
+    {
+        "name": "Checkpoint - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Checkpoint|"
+    },
+    {
+        "name": "Childish Gambino Reviews Oreos In The Front Seat Of His Car - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Childish Gambino Reviews Oreos In The Front Seat Of His Car|"
+    },
+    {
+        "name": "Childish Gambino Reviews Oreos In The Front Seat Of His Car - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Childish Gambino Reviews Oreos In The Front Seat Of His Car|"
+    },
+    {
+        "name": "CHOMP - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|CHOMP|"
+    },
+    {
+        "name": "CHOMP - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|CHOMP|"
+    },
+    {
+        "name": "Chpinklez - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Chpinklez|"
+    },
+    {
+        "name": "Chpinklez - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Chpinklez|"
+    },
+    {
+        "name": "Clarity - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Clarity|"
+    },
+    {
+        "name": "Clarity - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Clarity|"
+    },
+    {
+        "name": "cold rock it - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|cold rock it|"
+    },
+    {
+        "name": "cold rock it - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|cold rock it|"
+    },
+    {
+        "name": "Colorblind - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Colorblind|"
+    },
+    {
+        "name": "Colorblind - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Colorblind|"
+    },
+    {
+        "name": "Come to Me - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Come to Me|"
+    },
+    {
+        "name": "Come to Me - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Come to Me|"
+    },
+    {
+        "name": "Coming Too - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Coming Too|"
+    },
+    {
+        "name": "Coming Too - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Coming Too|"
+    },
+    {
+        "name": "Cool Friends (Murtagh & Veschell Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Cool Friends (Murtagh & Veschell Remix)|"
+    },
+    {
+        "name": "Cool Friends (Murtagh & Veschell Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Cool Friends (Murtagh & Veschell Remix)|"
+    },
+    {
+        "name": "Counting Stars - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Counting Stars|"
+    },
+    {
+        "name": "Counting Stars - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Counting Stars|"
+    },
+    {
+        "name": "Crab Rave - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Crab Rave|"
+    },
+    {
+        "name": "Crab Rave - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Crab Rave|"
+    },
+    {
+        "name": "CRAZY - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|CRAZY|"
+    },
+    {
+        "name": "CRAZY - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|CRAZY|"
+    },
+    {
+        "name": "Crystal Clear II - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Crystal Clear II|"
+    },
+    {
+        "name": "Crystal Clear II - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Crystal Clear II|"
+    },
+    {
+        "name": "Cum Zone Remix - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Cum Zone Remix|"
+    },
+    {
+        "name": "Cum Zone Remix - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Cum Zone Remix|"
+    },
+    {
+        "name": "D.A.N.C.E. - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|D.A.N.C.E.|"
+    },
+    {
+        "name": "D.A.N.C.E. - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|D.A.N.C.E.|"
+    },
+    {
+        "name": "Dance With Silence - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dance With Silence|"
+    },
+    {
+        "name": "Dance With Silence - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dance With Silence|"
+    },
+    {
+        "name": "Dating Start! - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Dating Start!|"
+    },
+    {
+        "name": "Dating Start! - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Dating Start!|"
+    },
+    {
+        "name": "Daydream - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Daydream|"
+    },
+    {
+        "name": "Daydream - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Daydream|"
+    },
+    {
+        "name": "Dial-Up Modem Noises - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dial-Up Modem Noises|"
+    },
+    {
+        "name": "Dial-Up Modem Noises - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dial-Up Modem Noises|"
+    },
+    {
+        "name": "Die Young - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Die Young|"
+    },
+    {
+        "name": "Die Young - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Die Young|"
+    },
+    {
+        "name": "Different - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Different|"
+    },
+    {
+        "name": "Different - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Different|"
+    },
+    {
+        "name": "Dire, Dire Docks - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Dire, Dire Docks|"
+    },
+    {
+        "name": "Dire, Dire Docks - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Dire, Dire Docks|"
+    },
+    {
+        "name": "Disco Descent - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Disco Descent|"
+    },
+    {
+        "name": "Disco Descent - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Disco Descent|"
+    },
+    {
+        "name": "Dj construction worker but it's 2x speed - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dj construction worker but it's 2x speed|"
+    },
+    {
+        "name": "Dj construction worker but it's 2x speed - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dj construction worker but it's 2x speed|"
+    },
+    {
+        "name": "Dj construction worker - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dj construction worker|"
+    },
+    {
+        "name": "Dj construction worker - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Dj construction worker|"
+    },
+    {
+        "name": "Do It - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Do It|"
+    },
+    {
+        "name": "Do It - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Do It|"
+    },
+    {
+        "name": "Do No Harm (Atrial Mix) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Do No Harm (Atrial Mix)|"
+    },
+    {
+        "name": "Do No Harm (Atrial Mix) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Do No Harm (Atrial Mix)|"
+    },
+    {
+        "name": "Don't Care Crown - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Don't Care Crown|"
+    },
+    {
+        "name": "Don't Care Crown - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Don't Care Crown|"
+    },
+    {
+        "name": "Dying Scarlet - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dying Scarlet|"
+    },
+    {
+        "name": "Dying Scarlet - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Dying Scarlet|"
+    },
+    {
+        "name": "Eden - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Eden|"
+    },
+    {
+        "name": "Eden - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Eden|"
+    },
+    {
+        "name": "Eggman's announcement but in the form of a song - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Eggman's announcement but in the form of a song|"
+    },
+    {
+        "name": "Eggman's announcement but in the form of a song - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Eggman's announcement but in the form of a song|"
+    },
+    {
+        "name": "Electric Feel (Justice Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Electric Feel (Justice Remix)|"
+    },
+    {
+        "name": "Electric Feel (Justice Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Electric Feel (Justice Remix)|"
+    },
+    {
+        "name": "Elevatia - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Elevatia|"
+    },
+    {
+        "name": "Elevatia - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Elevatia|"
+    },
+    {
+        "name": "Emperor - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Emperor|"
+    },
+    {
+        "name": "Emperor - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Emperor|"
+    },
+    {
+        "name": "Engine Start - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Engine Start|"
+    },
+    {
+        "name": "Engine Start - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Engine Start|"
+    },
+    {
+        "name": "Ether - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ether|"
+    },
+    {
+        "name": "Ether - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ether|"
+    },
+    {
+        "name": "Everlasting Love + You - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Everlasting Love + You|"
+    },
+    {
+        "name": "Everlasting Love + You - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Everlasting Love + You|"
+    },
+    {
+        "name": "Everytime We Touch - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Everytime We Touch|"
+    },
+    {
+        "name": "Everytime We Touch - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Everytime We Touch|"
+    },
+    {
+        "name": "Fallen Daniel - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Fallen Daniel|"
+    },
+    {
+        "name": "Fallen Daniel - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Fallen Daniel|"
+    },
+    {
+        "name": "Far Away - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Far Away|"
+    },
+    {
+        "name": "Far Away - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Far Away|"
+    },
+    {
+        "name": "Feliz Bottom Jeans - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Feliz Bottom Jeans|"
+    },
+    {
+        "name": "Feliz Bottom Jeans - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Feliz Bottom Jeans|"
+    },
+    {
+        "name": "Field of Hopes and Dreams - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Field of Hopes and Dreams|"
+    },
+    {
+        "name": "Field of Hopes and Dreams - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Field of Hopes and Dreams|"
+    },
+    {
+        "name": "Final Boss - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Final Boss|"
+    },
+    {
+        "name": "Final Boss - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Final Boss|"
+    },
+    {
+        "name": "Finale - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Finale|"
+    },
+    {
+        "name": "Finale - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Finale|"
+    },
+    {
+        "name": "Flames - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flames|"
+    },
+    {
+        "name": "Flames - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flames|"
+    },
+    {
+        "name": "Flawless - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flawless|"
+    },
+    {
+        "name": "Flawless - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flawless|"
+    },
+    {
+        "name": "Flicker - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flicker|"
+    },
+    {
+        "name": "Flicker - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Flicker|"
+    },
+    {
+        "name": "Flight - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Flight|"
+    },
+    {
+        "name": "Flight - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Flight|"
+    },
+    {
+        "name": "Fly Around - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fly Around|"
+    },
+    {
+        "name": "Fly Around - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fly Around|"
+    },
+    {
+        "name": "FOREVER NOW - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|FOREVER NOW|"
+    },
+    {
+        "name": "FOREVER NOW - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|FOREVER NOW|"
+    },
+    {
+        "name": "Fuck My Computer - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fuck My Computer|"
+    },
+    {
+        "name": "Fuck My Computer - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fuck My Computer|"
+    },
+    {
+        "name": "Fuck Off - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fuck Off|"
+    },
+    {
+        "name": "Fuck Off - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Fuck Off|"
+    },
+    {
+        "name": "Gangnam Style - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Gangnam Style|"
+    },
+    {
+        "name": "Gangnam Style - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Gangnam Style|"
+    },
+    {
+        "name": "Gay Frogs - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Gay Frogs|"
+    },
+    {
+        "name": "Gay Frogs - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Gay Frogs|"
+    },
+    {
+        "name": "Genesis - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Genesis|"
+    },
+    {
+        "name": "Genesis - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Genesis|"
+    },
+    {
+        "name": "Get Through - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Get Through|"
+    },
+    {
+        "name": "Get Through - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Get Through|"
+    },
+    {
+        "name": "GET UP - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|GET UP|"
+    },
+    {
+        "name": "GET UP - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|GET UP|"
+    },
+    {
+        "name": "Ghost Ship - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ghost Ship|"
+    },
+    {
+        "name": "Ghost Ship - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ghost Ship|"
+    },
+    {
+        "name": "Ghosts 'n' Stuff - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ghosts 'n' Stuff|"
+    },
+    {
+        "name": "Ghosts 'n' Stuff - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ghosts 'n' Stuff|"
+    },
+    {
+        "name": "Ginger Lizard - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ginger Lizard|"
+    },
+    {
+        "name": "Ginger Lizard - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Ginger Lizard|"
+    },
+    {
+        "name": "Give It To Me - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Give It To Me|"
+    },
+    {
+        "name": "Give It To Me - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Give It To Me|"
+    },
+    {
+        "name": "GLaDOS hates Spin Rhythm XD - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|GLaDOS hates Spin Rhythm XD|"
+    },
+    {
+        "name": "GLaDOS hates Spin Rhythm XD - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|GLaDOS hates Spin Rhythm XD|"
+    },
+    {
+        "name": "Go Outside - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Go Outside|"
+    },
+    {
+        "name": "Go Outside - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Go Outside|"
+    },
+    {
+        "name": "Heading East - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Heading East|"
+    },
+    {
+        "name": "Heading East - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Heading East|"
+    },
+    {
+        "name": "Hidden Level - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Hidden Level|"
+    },
+    {
+        "name": "Hidden Level - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Hidden Level|"
+    },
+    {
+        "name": "Higher - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Higher|"
+    },
+    {
+        "name": "Higher - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Higher|"
+    },
+    {
+        "name": "Highscore - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Highscore|"
+    },
+    {
+        "name": "Highscore - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Highscore|"
+    },
+    {
+        "name": "Home - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Home|"
+    },
+    {
+        "name": "Home - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Home|"
+    },
+    {
+        "name": "Hot Milk - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Hot Milk|"
+    },
+    {
+        "name": "Hot Milk - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Hot Milk|"
+    },
+    {
+        "name": "Hot Pursuit - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hot Pursuit|"
+    },
+    {
+        "name": "Hot Pursuit - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hot Pursuit|"
+    },
+    {
+        "name": "house music - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|house music|"
+    },
+    {
+        "name": "house music - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|house music|"
+    },
+    {
+        "name": "How We Win - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|How We Win|"
+    },
+    {
+        "name": "How We Win - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|How We Win|"
+    },
+    {
+        "name": "Humanity - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Humanity|"
+    },
+    {
+        "name": "Humanity - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Humanity|"
+    },
+    {
+        "name": "Huxley Hustle - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Huxley Hustle|"
+    },
+    {
+        "name": "Huxley Hustle - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Huxley Hustle|"
+    },
+    {
+        "name": "Hypersphere - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hypersphere|"
+    },
+    {
+        "name": "Hypersphere - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Hypersphere|"
+    },
+    {
+        "name": "I Said Meow - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I Said Meow|"
+    },
+    {
+        "name": "I Said Meow - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I Said Meow|"
+    },
+    {
+        "name": "I See Lite - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|I See Lite|"
+    },
+    {
+        "name": "I See Lite - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|I See Lite|"
+    },
+    {
+        "name": "I Want You - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I Want You|"
+    },
+    {
+        "name": "I Want You - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I Want You|"
+    },
+    {
+        "name": "I'm an Albatraoz - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I'm an Albatraoz|"
+    },
+    {
+        "name": "I'm an Albatraoz - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|I'm an Albatraoz|"
+    },
+    {
+        "name": "Icarus - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Icarus|"
+    },
+    {
+        "name": "Icarus - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Icarus|"
+    },
+    {
+        "name": "Imperium - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Imperium|"
+    },
+    {
+        "name": "Imperium - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Imperium|"
+    },
+    {
+        "name": "Inject - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Inject|"
+    },
+    {
+        "name": "Inject - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Inject|"
+    },
+    {
+        "name": "Interlaced - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Interlaced|"
+    },
+    {
+        "name": "Interlaced - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Interlaced|"
+    },
+    {
+        "name": "Into the Light - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Into the Light|"
+    },
+    {
+        "name": "Into the Light - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Into the Light|"
+    },
+    {
+        "name": "Intoxicated - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Intoxicated|"
+    },
+    {
+        "name": "Intoxicated - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Intoxicated|"
+    },
+    {
+        "name": "It's All Over - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|It's All Over|"
+    },
+    {
+        "name": "It's All Over - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|It's All Over|"
+    },
+    {
+        "name": "It's so sad that steve jobs died of ligma - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|It's so sad that steve jobs died of ligma|"
+    },
+    {
+        "name": "It's so sad that steve jobs died of ligma - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|It's so sad that steve jobs died of ligma|"
+    },
+    {
+        "name": "Just Did a Bad Thing - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Just Did a Bad Thing|"
+    },
+    {
+        "name": "Just Did a Bad Thing - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Just Did a Bad Thing|"
+    },
+    {
+        "name": "Konga Conga Kappa - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Konga Conga Kappa|"
+    },
+    {
+        "name": "Konga Conga Kappa - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Konga Conga Kappa|"
+    },
+    {
+        "name": "Lay All Your Love On Me (as sung by a vampire) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Lay All Your Love On Me (as sung by a vampire)|"
+    },
+    {
+        "name": "Lay All Your Love On Me (as sung by a vampire) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Lay All Your Love On Me (as sung by a vampire)|"
+    },
+    {
+        "name": "Let Me Hear That - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Let Me Hear That|"
+    },
+    {
+        "name": "Let Me Hear That - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Let Me Hear That|"
+    },
+    {
+        "name": "Lights Camera Action - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lights Camera Action|"
+    },
+    {
+        "name": "Lights Camera Action - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lights Camera Action|"
+    },
+    {
+        "name": "Lightspeed - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Lightspeed|"
+    },
+    {
+        "name": "Lightspeed - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Lightspeed|"
+    },
+    {
+        "name": "Lovesick - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lovesick|"
+    },
+    {
+        "name": "Lovesick - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Lovesick|"
+    },
+    {
+        "name": "Memory Bank - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Memory Bank|"
+    },
+    {
+        "name": "Memory Bank - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Memory Bank|"
+    },
+    {
+        "name": "Mercy - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Mercy|"
+    },
+    {
+        "name": "Mercy - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Mercy|"
+    },
+    {
+        "name": "Metropole - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Metropole|"
+    },
+    {
+        "name": "Metropole - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Metropole|"
+    },
+    {
+        "name": "might quit - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|might quit|"
+    },
+    {
+        "name": "might quit - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|might quit|"
+    },
+    {
+        "name": "Mimic - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Mimic|"
+    },
+    {
+        "name": "Mimic - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Mimic|"
+    },
+    {
+        "name": "My Movie - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|My Movie|"
+    },
+    {
+        "name": "My Movie - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|My Movie|"
+    },
+    {
+        "name": "My Museum - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|My Museum|"
+    },
+    {
+        "name": "My Museum - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|My Museum|"
+    },
+    {
+        "name": "Never Count On Me - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Never Count On Me|"
+    },
+    {
+        "name": "Never Count On Me - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Never Count On Me|"
+    },
+    {
+        "name": "New Game - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Game|"
+    },
+    {
+        "name": "New Game - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Game|"
+    },
+    {
+        "name": "New Year - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Year|"
+    },
+    {
+        "name": "New Year - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|New Year|"
+    },
+    {
+        "name": "Newjack - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Newjack|"
+    },
+    {
+        "name": "Newjack - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Newjack|"
+    },
+    {
+        "name": "No Limits - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|No Limits|"
+    },
+    {
+        "name": "No Limits - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|No Limits|"
+    },
+    {
+        "name": "Nonsense - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Nonsense|"
+    },
+    {
+        "name": "Nonsense - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Nonsense|"
+    },
+    {
+        "name": "Obsession - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Obsession|"
+    },
+    {
+        "name": "Obsession - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Obsession|"
+    },
+    {
+        "name": "Ocean Man - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ocean Man|"
+    },
+    {
+        "name": "Ocean Man - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ocean Man|"
+    },
+    {
+        "name": "Octava - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Octava|"
+    },
+    {
+        "name": "Octava - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Octava|"
+    },
+    {
+        "name": "OK Computer - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|OK Computer|"
+    },
+    {
+        "name": "OK Computer - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|OK Computer|"
+    },
+    {
+        "name": "OK - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|OK|"
+    },
+    {
+        "name": "OK - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|OK|"
+    },
+    {
+        "name": "Once Again - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Once Again|"
+    },
+    {
+        "name": "Once Again - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Once Again|"
+    },
+    {
+        "name": "One Esk Nineteen - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|One Esk Nineteen|"
+    },
+    {
+        "name": "One Esk Nineteen - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|One Esk Nineteen|"
+    },
+    {
+        "name": "One Kiss - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One Kiss|"
+    },
+    {
+        "name": "One Kiss - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One Kiss|"
+    },
+    {
+        "name": "One More Time - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One More Time|"
+    },
+    {
+        "name": "One More Time - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One More Time|"
+    },
+    {
+        "name": "One Week - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One Week|"
+    },
+    {
+        "name": "One Week - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|One Week|"
+    },
+    {
+        "name": "Only Way Out - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Only Way Out|"
+    },
+    {
+        "name": "Only Way Out - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Only Way Out|"
+    },
+    {
+        "name": "Ouroboros -single Stroke Of The End- - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ouroboros -single Stroke Of The End-|"
+    },
+    {
+        "name": "Ouroboros -single Stroke Of The End- - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Ouroboros -single Stroke Of The End-|"
+    },
+    {
+        "name": "Overkill - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Overkill|"
+    },
+    {
+        "name": "Overkill - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Overkill|"
+    },
+    {
+        "name": "Paradigm - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Paradigm|"
+    },
+    {
+        "name": "Paradigm - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Paradigm|"
+    },
+    {
+        "name": "Pay No Mind - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Pay No Mind|"
+    },
+    {
+        "name": "Pay No Mind - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Pay No Mind|"
+    },
+    {
+        "name": "Phantom - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Phantom|"
+    },
+    {
+        "name": "Phantom - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Phantom|"
+    },
+    {
+        "name": "Pirate Afterparty - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Pirate Afterparty|"
+    },
+    {
+        "name": "Pirate Afterparty - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Pirate Afterparty|"
+    },
+    {
+        "name": "Pixel Empire - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Pixel Empire|"
+    },
+    {
+        "name": "Pixel Empire - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Pixel Empire|"
+    },
+    {
+        "name": "Planet of the Bass - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Planet of the Bass|"
+    },
+    {
+        "name": "Planet of the Bass - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Planet of the Bass|"
+    },
+    {
+        "name": "Platform 9 - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Platform 9|"
+    },
+    {
+        "name": "Platform 9 - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Platform 9|"
+    },
+    {
+        "name": "PLAY - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|PLAY|"
+    },
+    {
+        "name": "PLAY - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|PLAY|"
+    },
+    {
+        "name": "Portabellohead - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Portabellohead|"
+    },
+    {
+        "name": "Portabellohead - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Portabellohead|"
+    },
+    {
+        "name": "Potential for Anything - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Potential for Anything|"
+    },
+    {
+        "name": "Potential for Anything - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Potential for Anything|"
+    },
+    {
+        "name": "Prism Bucket - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Prism Bucket|"
+    },
+    {
+        "name": "Prism Bucket - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Prism Bucket|"
+    },
+    {
+        "name": "PROPER RHYTHM - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|PROPER RHYTHM|"
+    },
+    {
+        "name": "PROPER RHYTHM - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|PROPER RHYTHM|"
+    },
+    {
+        "name": "Radio - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Radio|"
+    },
+    {
+        "name": "Radio - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Radio|"
+    },
+    {
+        "name": "Rainbow Road - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Rainbow Road|"
+    },
+    {
+        "name": "Rainbow Road - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Rainbow Road|"
+    },
+    {
+        "name": "Raise The Black Flag - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Raise The Black Flag|"
+    },
+    {
+        "name": "Raise The Black Flag - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Raise The Black Flag|"
+    },
+    {
+        "name": "RATATA - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|RATATA|"
+    },
+    {
+        "name": "RATATA - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|RATATA|"
+    },
+    {
+        "name": "Rattlesnake - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rattlesnake|"
+    },
+    {
+        "name": "Rattlesnake - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rattlesnake|"
+    },
+    {
+        "name": "Razor Sharp - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Razor Sharp|"
+    },
+    {
+        "name": "Razor Sharp - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Razor Sharp|"
+    },
+    {
+        "name": "Reach You - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Reach You|"
+    },
+    {
+        "name": "Reach You - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Reach You|"
+    },
+    {
+        "name": "Resonate - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Resonate|"
+    },
+    {
+        "name": "Resonate - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Resonate|"
+    },
+    {
+        "name": "Revenger - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Revenger|"
+    },
+    {
+        "name": "Revenger - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Revenger|"
+    },
+    {
+        "name": "Rhythmic Shield - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rhythmic Shield|"
+    },
+    {
+        "name": "Rhythmic Shield - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Rhythmic Shield|"
+    },
+    {
+        "name": "Robo Trio - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Robo Trio|"
+    },
+    {
+        "name": "Robo Trio - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Robo Trio|"
+    },
+    {
+        "name": "Safe and Sound - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Safe and Sound|"
+    },
+    {
+        "name": "Safe and Sound - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Safe and Sound|"
+    },
+    {
+        "name": "Sandblast - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sandblast|"
+    },
+    {
+        "name": "Sandblast - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sandblast|"
+    },
+    {
+        "name": "Scratch - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Scratch|"
+    },
+    {
+        "name": "Scratch - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Scratch|"
+    },
+    {
+        "name": "Second Wind - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Second Wind|"
+    },
+    {
+        "name": "Second Wind - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Second Wind|"
+    },
+    {
+        "name": "Sector Five - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Sector Five|"
+    },
+    {
+        "name": "Sector Five - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Sector Five|"
+    },
+    {
+        "name": "Shelter - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shelter|"
+    },
+    {
+        "name": "Shelter - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shelter|"
+    },
+    {
+        "name": "Shimmy - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shimmy|"
+    },
+    {
+        "name": "Shimmy - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shimmy|"
+    },
+    {
+        "name": "Shopping - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shopping|"
+    },
+    {
+        "name": "Shopping - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Shopping|"
+    },
+    {
+        "name": "Show Me Love (nxwyxrk remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Show Me Love (nxwyxrk remix)|"
+    },
+    {
+        "name": "Show Me Love (nxwyxrk remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Show Me Love (nxwyxrk remix)|"
+    },
+    {
+        "name": "Showdown - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Showdown|"
+    },
+    {
+        "name": "Showdown - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Showdown|"
+    },
+    {
+        "name": "Shut My Mouth - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Shut My Mouth|"
+    },
+    {
+        "name": "Shut My Mouth - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|Shut My Mouth|"
+    },
+    {
+        "name": "Silent Party - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Silent Party|"
+    },
+    {
+        "name": "Silent Party - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Silent Party|"
+    },
+    {
+        "name": "Simple Life - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Simple Life|"
+    },
+    {
+        "name": "Simple Life - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Simple Life|"
+    },
+    {
+        "name": "Slider - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Slider|"
+    },
+    {
+        "name": "Slider - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Slider|"
+    },
+    {
+        "name": "SMSOU - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|SMSOU|"
+    },
+    {
+        "name": "SMSOU - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|SMSOU|"
+    },
+    {
+        "name": "Sneakers - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sneakers|"
+    },
+    {
+        "name": "Sneakers - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sneakers|"
+    },
+    {
+        "name": "Snowblind - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Snowblind|"
+    },
+    {
+        "name": "Snowblind - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Snowblind|"
+    },
+    {
+        "name": "Snowman - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Snowman|"
+    },
+    {
+        "name": "Snowman - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Snowman|"
+    },
+    {
+        "name": "Soldiers - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Soldiers|"
+    },
+    {
+        "name": "Soldiers - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Soldiers|"
+    },
+    {
+        "name": "Spin Cycle (NETCAVY Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle (NETCAVY Remix)|"
+    },
+    {
+        "name": "Spin Cycle (NETCAVY Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle (NETCAVY Remix)|"
+    },
+    {
+        "name": "Spin Cycle - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle|"
+    },
+    {
+        "name": "Spin Cycle - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Spin Cycle|"
+    },
+    {
+        "name": "Steamed Hams - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Steamed Hams|"
+    },
+    {
+        "name": "Steamed Hams - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Steamed Hams|"
+    },
+    {
+        "name": "Still Here - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Still Here|"
+    },
+    {
+        "name": "Still Here - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Still Here|"
+    },
+    {
+        "name": "Street Party - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Street Party|"
+    },
+    {
+        "name": "Street Party - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Street Party|"
+    },
+    {
+        "name": "Succubus - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Succubus|"
+    },
+    {
+        "name": "Succubus - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Succubus|"
+    },
+    {
+        "name": "Sugar Swing Sorbet - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sugar Swing Sorbet|"
+    },
+    {
+        "name": "Sugar Swing Sorbet - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sugar Swing Sorbet|"
+    },
+    {
+        "name": "Sugar - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sugar|"
+    },
+    {
+        "name": "Sugar - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sugar|"
+    },
+    {
+        "name": "Superimposed_RGB - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Superimposed_RGB|"
+    },
+    {
+        "name": "Superimposed_RGB - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Superimposed_RGB|"
+    },
+    {
+        "name": "Supernova - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Supernova|"
+    },
+    {
+        "name": "Supernova - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Supernova|"
+    },
+    {
+        "name": "Sweet Dreams (Are Made Of This) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sweet Dreams (Are Made Of This)|"
+    },
+    {
+        "name": "Sweet Dreams (Are Made Of This) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Sweet Dreams (Are Made Of This)|"
+    },
+    {
+        "name": "tapestry - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|tapestry|"
+    },
+    {
+        "name": "tapestry - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|tapestry|"
+    },
+    {
+        "name": "Temptress - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Temptress|"
+    },
+    {
+        "name": "Temptress - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Temptress|"
+    },
+    {
+        "name": "The Advantage - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Advantage|"
+    },
+    {
+        "name": "The Advantage - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Advantage|"
+    },
+    {
+        "name": "THE DROP - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|THE DROP|"
+    },
+    {
+        "name": "THE DROP - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|THE DROP|"
+    },
+    {
+        "name": "The Kraken - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Kraken|"
+    },
+    {
+        "name": "The Kraken - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Kraken|"
+    },
+    {
+        "name": "The Lunar Whale - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Lunar Whale|"
+    },
+    {
+        "name": "The Lunar Whale - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Lunar Whale|"
+    },
+    {
+        "name": "The Magician (Eraser Remix) - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician (Eraser Remix)|"
+    },
+    {
+        "name": "The Magician (Eraser Remix) - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician (Eraser Remix)|"
+    },
+    {
+        "name": "The Magician - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician|"
+    },
+    {
+        "name": "The Magician - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|The Magician|"
+    },
+    {
+        "name": "The Penis (eek!) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|The Penis (eek!)|"
+    },
+    {
+        "name": "The Penis (eek!) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|The Penis (eek!)|"
+    },
+    {
+        "name": "The Power - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Power|"
+    },
+    {
+        "name": "The Power - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Power|"
+    },
+    {
+        "name": "The Spectre - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Spectre|"
+    },
+    {
+        "name": "The Spectre - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|The Spectre|"
+    },
+    {
+        "name": "This Is It - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|This Is It|"
+    },
+    {
+        "name": "This Is It - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|This Is It|"
+    },
+    {
+        "name": "THX Deep Note - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|THX Deep Note|"
+    },
+    {
+        "name": "THX Deep Note - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|THX Deep Note|"
+    },
+    {
+        "name": "Till It's Over - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Till It's Over|"
+    },
+    {
+        "name": "Till It's Over - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Till It's Over|"
+    },
+    {
+        "name": "Time - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Time|"
+    },
+    {
+        "name": "Time - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Time|"
+    },
+    {
+        "name": "Trailer Theme - Grand Dad Mania - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Trailer Theme - Grand Dad Mania|"
+    },
+    {
+        "name": "Trailer Theme - Grand Dad Mania - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Trailer Theme - Grand Dad Mania|"
+    },
+    {
+        "name": "trans rights - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|trans rights|"
+    },
+    {
+        "name": "trans rights - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|trans rights|"
+    },
+    {
+        "name": "Trombone Skyze (Clean) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Trombone Skyze (Clean)|"
+    },
+    {
+        "name": "Trombone Skyze (Clean) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Trombone Skyze (Clean)|"
+    },
+    {
+        "name": "Twist Sound - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Twist Sound|"
+    },
+    {
+        "name": "Twist Sound - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Twist Sound|"
+    },
+    {
+        "name": "U Got Me - 0",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|U Got Me|"
+    },
+    {
+        "name": "U Got Me - 1",
+        "category": [
+            "(Song List)",
+            "Monstercat DLC"
+        ],
+        "requires": "|U Got Me|"
+    },
+    {
+        "name": "U Got That - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|U Got That|"
+    },
+    {
+        "name": "U Got That - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|U Got That|"
+    },
+    {
+        "name": "Undo U - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Undo U|"
+    },
+    {
+        "name": "Undo U - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Undo U|"
+    },
+    {
+        "name": "Unfounded Daniel - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Unfounded Daniel|"
+    },
+    {
+        "name": "Unfounded Daniel - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Unfounded Daniel|"
+    },
+    {
+        "name": "valor/starcross - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|valor/starcross|"
+    },
+    {
+        "name": "valor/starcross - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|valor/starcross|"
+    },
+    {
+        "name": "Velours - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Velours|"
+    },
+    {
+        "name": "Velours - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Velours|"
+    },
+    {
+        "name": "Voidwalkers - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Voidwalkers|"
+    },
+    {
+        "name": "Voidwalkers - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Voidwalkers|"
+    },
+    {
+        "name": "VOLT - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|VOLT|"
+    },
+    {
+        "name": "VOLT - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|VOLT|"
+    },
+    {
+        "name": "Waiting For Tomorrow - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Waiting For Tomorrow|"
+    },
+    {
+        "name": "Waiting For Tomorrow - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Waiting For Tomorrow|"
+    },
+    {
+        "name": "Wall Is Stop - Starting Off - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Wall Is Stop - Starting Off|"
+    },
+    {
+        "name": "Wall Is Stop - Starting Off - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Wall Is Stop - Starting Off|"
+    },
+    {
+        "name": "Wario Laughing (Metal) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Wario Laughing (Metal)|"
+    },
+    {
+        "name": "Wario Laughing (Metal) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Wario Laughing (Metal)|"
+    },
+    {
+        "name": "Water Elemental - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Water Elemental|"
+    },
+    {
+        "name": "Water Elemental - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Water Elemental|"
+    },
+    {
+        "name": "Waters of Nazareth - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Waters of Nazareth|"
+    },
+    {
+        "name": "Waters of Nazareth - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Waters of Nazareth|"
+    },
+    {
+        "name": "Wayside - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Wayside|"
+    },
+    {
+        "name": "Wayside - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Wayside|"
+    },
+    {
+        "name": "We Like To Party! (The Vengabus) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|We Like To Party! (The Vengabus)|"
+    },
+    {
+        "name": "We Like To Party! (The Vengabus) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|We Like To Party! (The Vengabus)|"
+    },
+    {
+        "name": "Weapon of Choice - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Weapon of Choice|"
+    },
+    {
+        "name": "Weapon of Choice - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Weapon of Choice|"
+    },
+    {
+        "name": "Wendy's Training Video Hot Drinks - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Wendy's Training Video Hot Drinks|"
+    },
+    {
+        "name": "Wendy's Training Video Hot Drinks - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|Wendy's Training Video Hot Drinks|"
+    },
+    {
+        "name": "when she suckin on ya nuts but you GAMING! - 0",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|when she suckin on ya nuts but you GAMING!|"
+    },
+    {
+        "name": "when she suckin on ya nuts but you GAMING! - 1",
+        "category": [
+            "(Song List)",
+            "Customs (They Call It XD For A Reason)"
+        ],
+        "requires": "|when she suckin on ya nuts but you GAMING!|"
+    },
+    {
+        "name": "Whirlpool - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Whirlpool|"
+    },
+    {
+        "name": "Whirlpool - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Whirlpool|"
+    },
+    {
+        "name": "You Make Me Go - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You Make Me Go|"
+    },
+    {
+        "name": "You Make Me Go - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You Make Me Go|"
+    },
+    {
+        "name": "You Spin Me Round (Like a Record) - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You Spin Me Round (Like a Record)|"
+    },
+    {
+        "name": "You Spin Me Round (Like a Record) - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You Spin Me Round (Like a Record)|"
+    },
+    {
+        "name": "You're On - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You're On|"
+    },
+    {
+        "name": "You're On - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|You're On|"
+    },
+    {
+        "name": "Your Pain - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Your Pain|"
+    },
+    {
+        "name": "Your Pain - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Your Pain|"
+    },
+    {
+        "name": "Zephyr - 0",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Zephyr|"
+    },
+    {
+        "name": "Zephyr - 1",
+        "category": [
+            "(Song List)",
+            "Customs (Good)"
+        ],
+        "requires": "|Zephyr|"
+    }
+]
