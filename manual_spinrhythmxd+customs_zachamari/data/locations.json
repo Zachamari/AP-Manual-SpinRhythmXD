@@ -1750,6 +1750,22 @@
         "requires": "|Imperium|"
     },
     {
+        "name": "Inaka - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Inaka|"
+    },
+    {
+        "name": "Inaka - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Inaka|"
+    },
+    {
         "name": "Inject - 0",
         "category": [
             "(Song List)",
@@ -1956,6 +1972,22 @@
             "Spin Rhythm XD"
         ],
         "requires": "|Lovesick|"
+    },
+    {
+        "name": "Matriarch - 0",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Matriarch|"
+    },
+    {
+        "name": "Matriarch - 1",
+        "category": [
+            "(Song List)",
+            "Spin Rhythm XD"
+        ],
+        "requires": "|Matriarch|"
     },
     {
         "name": "Memory Bank - 0",
@@ -2326,6 +2358,22 @@
         "requires": "|One Week|"
     },
     {
+        "name": "One - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|One|"
+    },
+    {
+        "name": "One - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|One|"
+    },
+    {
         "name": "Only Way Out - 0",
         "category": [
             "(Song List)",
@@ -2388,6 +2436,22 @@
             "Customs (Good)"
         ],
         "requires": "|Paradigm|"
+    },
+    {
+        "name": "Part-Time Gymnast - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Part-Time Gymnast|"
+    },
+    {
+        "name": "Part-Time Gymnast - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Part-Time Gymnast|"
     },
     {
         "name": "Pay No Mind - 0",
@@ -2486,6 +2550,22 @@
         "requires": "|Platform 9|"
     },
     {
+        "name": "Playing Dead - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Playing Dead|"
+    },
+    {
+        "name": "Playing Dead - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Playing Dead|"
+    },
+    {
         "name": "PLAY - 0",
         "category": [
             "(Song List)",
@@ -2564,6 +2644,22 @@
             "Spin Rhythm XD"
         ],
         "requires": "|PROPER RHYTHM|"
+    },
+    {
+        "name": "Punch-Drunk Love - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Punch-Drunk Love|"
+    },
+    {
+        "name": "Punch-Drunk Love - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Punch-Drunk Love|"
     },
     {
         "name": "Radio - 0",
@@ -2948,6 +3044,22 @@
             "Customs (Good)"
         ],
         "requires": "|Simple Life|"
+    },
+    {
+        "name": "Sleeping In - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Sleeping In|"
+    },
+    {
+        "name": "Sleeping In - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Sleeping In|"
     },
     {
         "name": "Slider - 0",
@@ -3444,6 +3556,22 @@
             "Customs (Good)"
         ],
         "requires": "|Till It's Over|"
+    },
+    {
+        "name": "Time Wasted Worrying - 0",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Time Wasted Worrying|"
+    },
+    {
+        "name": "Time Wasted Worrying - 1",
+        "category": [
+            "(Song List)",
+            "Indie DLC"
+        ],
+        "requires": "|Time Wasted Worrying|"
     },
     {
         "name": "Time - 0",
